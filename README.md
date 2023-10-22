@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/brentmiedema)
+- [Active Directory Home Lab](https://github.com/brentmiedema/ActiveDirectoryLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
