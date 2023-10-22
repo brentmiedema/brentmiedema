@@ -1,6 +1,6 @@
-<h1>Hi, I'm Brent! <br/><a href="https://github.com/brentmiedema">Programmer</a>, <a href="https://www.linkedin.com/in/brent-miedema-4757a596/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/therealbrentmiedema">YouTuber</a></h1>
+<h1>Hi, I'm Brent! <br/><a href="https://github.com/brentmiedema">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/brent-miedema-4757a596/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@therealbrentmiedema">YouTuber</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/brentmiedema)
@@ -19,8 +19,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/therealbrentmiedema
-[instagram]: https://www.instagram.com/joshmadakor/
+[youtube]: https://www.youtube.com/@therealbrentmiedema
+[instagram]: https://www.instagram.com/brentmiedema/
 [linkedin]: https://linkedin.com/in/brent-miedema-4757a596
 
 <!--
